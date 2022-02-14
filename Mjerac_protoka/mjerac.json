@@ -1,0 +1,52 @@
+{
+  "watergauges": [
+    {
+      "min": -3266.8,
+      "max": 3266.8,
+      "unit": "Celzius",
+      "gaugeName": "Water temperature"
+    },
+    {
+      "min": 0.0,
+      "max": 66.356,
+      "unit": "Bar",
+      "gaugeName": "Water pressure"
+    },
+    {
+      "min": 0.0,
+      "max": 65336.0,
+      "unit": "liter/s",
+      "gaugeName": "Last minute"
+    },
+    {
+      "min": 0.0,
+      "max": 65336.0,
+      "unit": "liter/s",
+      "gaugeName": "Last 10 minutes"
+    },
+    {
+      "min": 0.0,
+      "max": 65336.0,
+      "unit": "liter/s",
+      "gaugeName": "Last day"
+    },
+    {
+      "min": 0.0,
+      "max": 6533.6,
+      "unit": "m3",
+      "gaugeName": "1 week"
+    },
+    {
+      "min": 0.0,
+      "max": 6533.6,
+      "unit": "m3",
+      "gaugeName": "1 month"
+    },
+    {
+      "min": 0.0,
+      "max": 6533.6,
+      "unit": "m3",
+      "gaugeName": "1 year"
+    }
+  ]
+}
